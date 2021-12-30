@@ -1,0 +1,28 @@
+
+
+.contenedor{
+    background-color: white;
+    margin-top: 12px;
+    padding: px;
+    border-style: solid;
+    border-color: blue;
+
+    
+}
+
+.cabecera{
+    text-decoration: none;
+    font-size: 28px;
+    color: blue;
+    border-style: solid;
+    border-color: black;
+    background-color: red;
+}
+
+
+img.imagenes{
+    padding: 5px;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+}
